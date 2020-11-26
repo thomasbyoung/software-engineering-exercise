@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestTracker.Web", "QuestTracker.Web\QuestTracker.Web.csproj", "{C24ABFB9-7939-4A2D-8A1A-D232D879AE25}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "QuestTracker.Core", "QuestTracker.Core\QuestTracker.Core.fsproj", "{300832F5-0246-46E8-8175-F71FDC0289CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C24ABFB9-7939-4A2D-8A1A-D232D879AE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24ABFB9-7939-4A2D-8A1A-D232D879AE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24ABFB9-7939-4A2D-8A1A-D232D879AE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24ABFB9-7939-4A2D-8A1A-D232D879AE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300832F5-0246-46E8-8175-F71FDC0289CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300832F5-0246-46E8-8175-F71FDC0289CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300832F5-0246-46E8-8175-F71FDC0289CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300832F5-0246-46E8-8175-F71FDC0289CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18E1D5A2-54D8-43BE-A852-9E1AC9991E30}
+	EndGlobalSection
+EndGlobal
