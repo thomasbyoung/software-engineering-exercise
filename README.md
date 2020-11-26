@@ -10,6 +10,7 @@ You are asked to take over development of a new system for tracking quests. This
 * Leave your commit history visible (do not squash commits).
 * Use a separate feature branch & pull request for each issue, and link it to the corresponding issue in your repository.
 * If you choose to implement additional features beyond those described in the issues in this repository, please add them as issues in your new repository.
+* The user interface should use React & Redux.
 
 ## Development Environment
 * Visual Studio 2019 (free Community Edition is [available here](https://visualstudio.microsoft.com/downloads/))
