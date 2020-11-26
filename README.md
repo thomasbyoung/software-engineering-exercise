@@ -6,7 +6,7 @@ You are asked to take over development of a new system for tracking quests. This
 ## Instructions
 * Fork this repository and make copies of the open issues in this repository.
 * Make your updates to the existing codebase in your new repository.
-* You may complete tasks from the open issues in any order.
+* You may complete tasks from the open issues in any order, but it may be helpful to work in the order of the issues (#1, then #2, etc.).
 * Leave your commit history visible (do not squash commits).
 * Use a separate feature branch & pull request for each issue, and link it to the corresponding issue in your repository.
 * If you choose to implement additional features beyond those described in the issues in this repository, please add them as issues in your new repository.
